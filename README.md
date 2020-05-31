@@ -1,2 +1,0 @@
-# waldo
-Created with CodeSandbox
